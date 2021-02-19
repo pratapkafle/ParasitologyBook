@@ -1,6 +1,5 @@
-book_filename: "ParasitologyBook"
+book_filename: "WebBook"
 delete_merged_file: true
 language:
   ui:
-    chapter_name: ""
-    
+    chapter_name: "Chapter "

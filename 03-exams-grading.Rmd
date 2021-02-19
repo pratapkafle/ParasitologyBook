@@ -1,0 +1,27 @@
+# Exams and Grading {-}
+
+The course will contain three mid term exams and a final exam.
+
+## Evaluation criteria {-}
+
+Exams         Points           Percentage
+----------    ------------     ------------
+Mid-term 1    30 points        15%
+Mid-term 2    50 points        25%
+Mid-term 3    50 points        25%
+Final exam    70 points        35%
+TOTAL         200 points       100%
+
+
+## Grading policy {-}
+
+Percentage    Grade     GPA
+----------    ------    -------
+90 or more    A         4
+88 - 90       A-        3.667
+85 - 87       B+        3.333
+80 - 84       B         3
+78 - 79       B-        2.667
+75 - 77       C+        2.333
+70 - 74       C         2
+69.5 or less  F         0
