@@ -2,13 +2,19 @@
 title: "Veterinary Parasitology"
 author: "Pratap Kafle"
 date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
+output: pdf-document
+subtitle: An introduction of the parasites of Veterinary Importance
 documentclass: book
-bibliography: [book.bib, packages.bib]
+bibliography:
+- book.bib
+- packages.bib
 biblio-style: apalike
 link-citations: yes
-description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+description: This is a parasitology book.
+site: bookdown::bookdown_site
 ---
+
+# (PART\*) Course information {-}
 
 # Welcome {-}
 
@@ -16,6 +22,23 @@ Welcome to the veterinary parasitology course
 
 You can use this book as a reference to your lectures.
 
----
+
 
 ![](images/cover.jpg)
+
+
+```{block2 type="imp"}
+This is very important
+```
+
+```{r vectorplots, fig.cap="Dogs and cats", out.width="49%", fig.show='hold', echo=FALSE, fig.scap="D and c."}
+
+knitr::include_graphics(c("images/beetle.jpg", "images/catdogicon.jpg"))
+```
+
+
+``` {block2 type="imp"}
+There is a lot of information within this practical book and **we do not expect you to read everything we link to**. You should attend each lecture, go through every practical and do some associated reading. 
+
+This is a 15 credit module, equivalent to 150 hours of study (including the taught sessions). Outside of our lectures and practical sessions (3 hours a week) **you should be spending an extra 12 hours a week on this module**. 
+```

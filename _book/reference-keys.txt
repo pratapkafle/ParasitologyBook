@@ -29,3 +29,4 @@ controlprevention
 morphology-of-adult-stage-and-egg-states
 welcome-1
 parasites-of-dogs-and-cats
+fig:vectorplots
