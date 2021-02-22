@@ -1,4 +1,4 @@
---- 
+---
 title: "Veterinary Parasitology"
 author: "Pratap Kafle"
 date: "`r Sys.Date()`"
@@ -14,31 +14,20 @@ description: This is a parasitology book.
 site: bookdown::bookdown_site
 ---
 
-# (PART\*) Course information {-}
+# (PART\*) PREFACE {-}
 
 # Welcome {-}
 
-Welcome to the veterinary parasitology course
-
-You can use this book as a reference to your lectures.
-
-
+Welcome to the world of parasites. This webook is prepared as a reference resource to the Vet Parasitology Course and will elaborate on the things discussed in the lectures. I will keep on updating this resource regularly.
 
 ![](images/cover.jpg)
 
 
-```{block2 type="imp"}
-This is very important
-```
-
-```{r vectorplots, fig.cap="Dogs and cats", out.width="49%", fig.show='hold', echo=FALSE, fig.scap="D and c."}
-
-knitr::include_graphics(c("images/beetle.jpg", "images/catdogicon.jpg"))
-```
+## Some disclaimers {-}
 
 
 ``` {block2 type="imp"}
-There is a lot of information within this practical book and **we do not expect you to read everything we link to**. You should attend each lecture, go through every practical and do some associated reading. 
+* Pelase use this web book only as refernce material and refrain from sharing it elsewhere. I have sections which are not properly referenced and the some images might not have proper credits, so please check with me if you want to share the images publicly.
 
-This is a 15 credit module, equivalent to 150 hours of study (including the taught sessions). Outside of our lectures and practical sessions (3 hours a week) **you should be spending an extra 12 hours a week on this module**. 
+* Dont rely fully on this book. There are plenty of resource available to expand your knowledge on veterinary parasitology.
 ```

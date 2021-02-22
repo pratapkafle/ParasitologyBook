@@ -1,8 +1,107 @@
-# Introduction {-}
 
-Welcome to the veterinary parasitology course. This course covers the basics of veteirnary parasitilogy and diagnositcs. I hope you will find this course fascinating and follow me during the couurse
+# Course Info {-}
 
-## What you can expect {-}
+- Course Number: DVM 523
+- Course Title: Veterinary Parasitology
+- Year: Fall 2021
+
+# Instructor Info {-}
+
+My name is Pratap Kafle. You can call me by my first name (Pratap) or Dr. Kafle, or Prof. Kafle, whatever you like!
+
+I am a veterinarian by training and I received my specialization in Parasitology during my graduate study and professional work in Canada. I got my DVM in 2011 and practiced as a mixed animal vet in Nepal for almost 2 years before moving to Canada to pursue graduate studies. I completed my PhD in 2018 from University of Calgary, where I studied the ecology of host-parasite interaction in the Canadian Arctic using fieldwork, lab experiments and ecological modeling. My postdoctoral work at the University of Calgary and University of Saskatchewan involved studying a variety of parasites of wildlife, pets and humans and researching Coronaviruses (including SARS-CoV-2) in Canadian wildlife. I co-taught veterinary parasitology course to the DVM students at the Western College of Veterinary Medicine at the University of Saskatchewan.
+
+I am pretty excited to be here and I look forward to working together with you all to make this course a great learning experience.
+
+## Where to find me? {-}
+
+You can email me anytime at kaflepratap@gmail.com during the office hours. I will try my best to respond during the weekend/holidays but I can't gurantee as I have a pretty young family and I try to work less during the weekends.
+
+My office is located
+
+```{r echo=FALSE}
+library(leaflet)
+library(webshot)
+
+leaflet() %>%
+    addTiles() %>%
+    setView(lng = -73.597, lat = 40.820, zoom = 22)
+```
 
 
-## What I expect {-}
+# Curricular Endpoints {-}
+
+- PCC1. Demonstrate knowledge and understanding of the central biological principles and mechanisms that underlie animal health and disease from the molecular and cellular level to organismal and population manifestations.
+
+- PCC2. Demonstrate understanding of normal structure, function, homeostasis, pathophysiology, mechanisms of health/disease, and the natural history and manifestations of important domestic and global animal diseases in a diverse society.
+
+- CC1a. Demonstrate ability to perform comprehensive patient diagnosis and utilize problem solving skills to analyze a patient and develop a list of differential diagnoses.
+
+- CC1b. Demonstrate ability to perform comprehensive patient diagnosis and utilize problem solving skills to develop disease prevention strategies, therapeutic intervention plans, and/or biosecurity measures involving diseases of individual animals and populations.
+
+- CC1c. Demonstrate ability to perform comprehensive patient diagnosis and utilize problem solving skills to select, utilize, interpret and synthesize relevant physical and laboratory diagnostic procedures including diagnostic imaging and diagnostic pathology.
+
+- CC3. Demonstrate ability to apply acquired knowledge in managing anesthesia, pain, and patient welfare.
+
+- CC7. Demonstrate ability to identify ways to prevent disease, identify organisms that require biosecurity measures, identify zoonotic disease and food safety issues and to promote awareness of the contributions of the veterinary profession to the overall public and professional healthcare teams.
+
+- CC8a. Demonstrate effective skills in client communications and ethical conduct as it relates to how to acquire information from clients (e.g. history) and about patients (e.g. medical records), to obtain, store and retrieve such information, and to communicate effectively with a diverse population of clients and colleagues.
+
+- CC8b. Demonstrate ethical conduct and understanding of professional ethics, influences of different cultures on the delivery of veterinary medical services to the public.
+
+- CC8c. Demonstrate knowledge, skills, values, attitudes, aptitude and behaviors necessary to address responsibly the health and well-being of animals in the context of the societal responsibilities of veterinarians and ever-changing societal expectations.
+
+- CC8d. Demonstrate basic knowledge of personal and small business management and awareness of the different career options in Veterinary Medicine.
+
+- CC9. Demonstrate solid knowledge of the role of research in furthering the practice of Veterinary Medicine.
+
+
+
+## Learning Objectives {-}
+
+1. Identify common helminth, protozoan and arthropod parasites found in domestic species
+
+2. Describe the developmental life cycles of common helminth, protozoan and arthropod parasites found in domestic species
+
+3. Interpret basic diagnostic procedures used in veterinary parasitology
+
+4. Integrate knowledge and skills acquired in this course with cases observed in local veterinary practices
+
+5. Utilize veterinary terminology commonly used in parasitology
+
+
+
+# Syllabus {-}
+
+This course reviews common helminth parasites (nematodes, trematodes, cestodes, acanthocephalans), protozoan and arthropod parasites commonly found in domestic species. The course will also integrate with practical courses delivered during the semester.
+
+## Prerequisite {-}
+
+Enrollment in semester 2 of the DVM program
+
+
+## Weekly course outline {-}
+
+Week   Topic
+------ ---------------
+1      Introduction
+2      Nematodes
+3      Nematodes
+4      Nematodes
+5      Nematodes
+6      Treamtodes
+7      Cestodes
+8      Cestodes
+9      Insects
+10     Insects
+11     Acari
+12     Protozoa
+13     Protozoa
+14     Special topics in Veterinary Parasitology
+15     Special topics in Veterinary Parasitology
+16     Final Exam
+
+
+
+
+## Class Schedule {-}

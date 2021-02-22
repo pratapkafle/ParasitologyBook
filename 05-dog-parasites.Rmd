@@ -1,4 +1,16 @@
-# Parasites of Dogs and Cats
+# (PART\*) DOG and CAT Parasites {-}
+
+# Nematodes {-}
+
+**GI nematodes**
+
+Parasite name         Niche            LifeCycle     Intermediate hosts       PPP
+----------------      -------------    ----------    ---------------------    --------------
+Spirocerca lupi       Esophagus        Indirect      Coporphagous beetles     2-3 months
+Physaloptera          Stomach          Direct        None                     5 months
+
+
+
 
 # *Spirocerca lupi*
 
