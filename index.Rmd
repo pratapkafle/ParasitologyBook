@@ -2,28 +2,25 @@
 title: "Veterinary Parasitology"
 author: "Pratap Kafle"
 date: "`r Sys.Date()`"
-output: pdf-document
-subtitle: An introduction of the parasites of Veterinary Importance
+site: bookdown::bookdown_site
+output: bookdown::gitbook
 documentclass: book
-bibliography:
-- book.bib
-- packages.bib
+bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
-description: This is a parasitology book.
-site: bookdown::bookdown_site
+github-repo: pratapkafle/ParasitologyBook
+description: "Veterinary Parasitology webook for DVM students"
 ---
 
 # (PART\*) PREFACE {-}
 
 # Welcome {-}
 
-Welcome to the world of parasites. This webook is prepared as a reference resource to the Vet Parasitology Course and will elaborate on the things discussed in the lectures. I will keep on updating this resource regularly.
+Welcome to the world of parasites. This webbook is prepared as a reference resource to the Vet Parasitology Course and will elaborate on the things discussed in the lectures. I will keep on updating this resource regularly.
 
 ![](images/cover.jpg)
 
 
-## Some disclaimers {-}
 
 
 ``` {block2 type="imp"}

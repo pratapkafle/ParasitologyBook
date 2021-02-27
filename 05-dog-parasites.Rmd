@@ -1,6 +1,10 @@
-# (PART\*) DOG and CAT Parasites {-}
+# (PART\*) DOG and CAT {-}
 
-# Nematodes {-}
+# (PART\*) Nematodes {-}
+
+# List of parasites covered {-}
+
+
 
 **GI nematodes**
 
@@ -10,81 +14,4 @@ Spirocerca lupi       Esophagus        Indirect      Coporphagous beetles     2-
 Physaloptera          Stomach          Direct        None                     5 months
 
 
-
-
-# *Spirocerca lupi*
-
-
-### Taxonomy {-}
-
-* Phylum : Nematoda
-* Class: Secernenta
-* Order: Spirurida
-* Family: Spirocercidae
-* Genus: Spiricerca
-* Species: _S. lupi_
-
-
-### Epidemiology {-}
-
-**Definitive hosts:** Mainly domestic dogs, occasionally some species of wild canids (red foxes [_S. vulpis_], black-backed jackals, wolves, coyotes). Occasionally in cats.
-
-**Intermediate hosts**: Coprophagous beetles
-
-**Other hosts**: Sometimes, a variety of paratenic (transport) hosts may be involved like: mice hedgehogs, lizards, birds, and rabbits may ingest beetles and remain infected, which transmit the infection to the definitive hosts
-
-**Distribution**: _S. lupi_ has a worldwide distribution but the prevalence is higher in  tropical and subtropical regions (eg, Greece, India, Israel, Japan, South Africa). In USA infections are monstly seen in southern region. Sporadic cases are reported in temperate regions (e.g. Canada ), mostly with travel history to the tropical regions.
-
-
-### Life Cycle {-}
-
-Females lay embryonated eggs in esophageal nodules. The eggs are released into the esophageal lumen through small openings and pass to the environment through the feces or vomit. Coprophagous beetles (intermediate hosts) ingest the eggs where the eggs hatch and moult into infective (L3) stage within 2 months. The L3 are encapsulated which helps the eggs to survive for longer time in the environment and remain infective. Definitive hosts are infected when they accidentally ingest the infected beetle containing L3 stages. Sometimes, a variety of paratenic (transport) hosts including: mice hedgehogs, lizards, birds, and rabbits may ingest beetles and remain infected, which transmit the infection to the definitive hosts when they are preyed upon. In the definitive hots, the L3 are freed in the stomach within two days. The larvae penetrate the the gut wall and start migrating within the walls of the gastric arteries to the thoracic aorta. By day 10 post-infection, worms can be found in the caudal thoracic aorta wall and migrate cranially through the vessel wall for up to 100 days, during which L3 moults into L4 preadult stage. About 3 months post-infection, the larvae migrate from the aorta to the esophagus and establishes in the submucosal layer. The L4 preadults trigger the formation of a nodule that protrudes into oesophageal lumen where final moulting occurs. Each nodule may contain several adult worms in a greasy, crumbly mass. Aberrant migration in the thoracic cavity, nervous system, subcutaneous tissues, or urinary tract can also occur. Adult male and female S. lupi complete their development and mature approximately 161 days after infection of their canine host. The prepatent period from the dog’s infection to the initial shedding of infective eggs is 121–124 days, and adult S. lupi can then survive in their canine host for 2 years or more, thus, disseminating infective eggs for prolonged periods.
-
-![**Lifecycle of _S. lupi_**. (1) adult worms live in submucosal nodes in the posterior part of the esophagus; (2) females lay larvated eggs that pass through an opening made into the mucosa to the esophagus and further to the intestine and in feces or with vomit into the environment; (3) the larva hatches only when it reaches the intermediate host, a coprophagic beetle. The development to the infective L3 phase lasts about 2 months; (4) the definitive host is infected by eating an infected intermediate host or a paratenic host; (5) the larva penetrates the stomach wall of the definitive host and migrates along the stomach wall and the gastric arteries to the aorta; and (6) the L3 stage develops into a L4-stage larva in the aortic wall. About 3 months later, most of the larvae migrate to the esophagus and mature. (Image from Saari et al., 2019[^2])](images/s.lupi.lifecycle.jpg)
-
-
-### Pathogenesis {-}
-
-Larval migration and localization of the adult worms within host tissues is associated with esophageal granulomas and sarcomas (fibrosarcomas, osteosarcomas, undifferentiated sarcomas), aortic aneurysms and thrombosis, thoracic diskospondylitis and spondylosis, hypertrophic osteopathy, salivary gland necrosis, and pyothorax. Sarcomas are almost exclusively localized to the esophagus.
-
-The clinical signs of spirocercosis are non-specific and are caused by the migration of larvae through the body as well as the space-occupying nodules in the oesophagus. The most common clinical signs include retching, vomiting, weight loss and difficulty in swallowing. Enlargement of salivary glands resulting in excessive drooling of saliva or sialorrhea have been associated with S. lupi infection. Thickening of the forelimb bones has also been documented in the late, cancerous stages of the disease.
-
-### Diagnosis {-}
-
-- __Fecal Examination__
-
-  Characteristic ellipsoid embryonated eggs with smooth clear egg shell [egg size: 30-38 x 11-15 µm] in direct fecal smears or by fecal flotation methods with a 1.27 specific gravity sugar suspension has been recommended for the best egg yield. Rarely eggs can be found in thoracic fluid Flotation Repeated fecal examinations are warranted due to intermittent shedding of eggs. Fecal sedimentation is best but fecal flotation can be used (less sensitive).
-
-- __Radiology__
-
-  Thoracic radiography allows the detection of parasite-induced lesions (caudal thoracic spondylitis and dense masses in the esophagus. CT generally provides more information on the location   and severity of the infection than radiographs.
-
-- __Esophagoscopy__ and sometimes __gastrocopy__ can help direct visualization of the nodules. The nodules may have nipple-like orifice from which a worm may protude.
-
-- __Molecular diagnosis__ - PCR of adult worms, eggs or larval stages
-
-### Treatment {-}
-
-* Treatment of clinical cases is often not practical.
-
-* Doramectin (0.2 mg/kg, SC, three doses at 2-wk intervals; 0.4 mg/kg, SC, six doses at 2-wk intervals; 0.5 mg/kg, SC, two doses 2 wk apart; 0.5 mg/kg/day, PO, for 42 days; 0.8 mg/kg, SC, two doses 1 wk apart; additional treatments may be required), and with ivermectin (0.6 mg/kg, SC, two doses 2 wk apart) combined with prednisolone (0.5 mg/kg, PO, bid for 2 wk and then tapered), has shown some success although none of these treatments is approved
-
-* In Europe, monthly treatment with topical moxidectin/imidacloprid is approved for use in dogs as a preventive for S lupi infection.
-
-* The specific breed toxicity associated with ivermectin in Collies and other herding dog breeds also occurs with doramectin.
-
-* Surgical removal of esophageal nodules or tumours largely unsuccessful due to extensive nature of lesions and post surgical complications.
-
-### Control/Prevention {-}
-
-* Preventing dogs from ingesting beetles or potential paratenic hosts in order to avoid infection with *S. lupi*.
-
-* Clearingdog feces rapidly and preventing access of beetle vectors to fecal material.
-
-* In endemic regions, a preventative regimen of doramectin injected subcutaneously every 2 months is used, in an attempt to kill the developing migrating larvae at an early stage of the parasite life cycle in the dog.
-
-
-[^2]: https://www.sciencedirect.com/science/article/pii/B9780128141120000052?via%3Dihub
-
-
-### Morphology of adult stage and egg states {-}
+** Non GI**

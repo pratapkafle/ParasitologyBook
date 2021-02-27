@@ -3,3 +3,13 @@ delete_merged_file: true
 language:
   ui:
     chapter_name: " "
+rmd_files: [
+  "index.Rmd",
+  "01-Preface.Rmd",
+  "02-course-info.Rmd",
+  "03-exams-grading.Rmd",
+  "04-prasitism-intro.Rmd",
+  "05-dog-parasites.Rmd",
+  "DogsNematodes/physaloptera.Rmd",
+  "DogsNematodes/spirocerca.Rmd"
+]

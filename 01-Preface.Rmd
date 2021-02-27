@@ -5,6 +5,17 @@
 - Course Title: Veterinary Parasitology
 - Year: Fall 2021
 
+
+
+This course reviews common helminth parasites (nematodes, trematodes, cestodes, acanthocephalans), protozoan and arthropod parasites commonly found in domestic species. The course will also integrate with practical courses delivered during the semester.
+
+---
+
+**Prerequisite**
+
+Enrollment in semester 2 of the DVM program
+
+
 # Instructor Info {-}
 
 My name is Pratap Kafle. You can call me by my first name (Pratap) or Dr. Kafle, or Prof. Kafle, whatever you like!
@@ -13,7 +24,10 @@ I am a veterinarian by training and I received my specialization in Parasitology
 
 I am pretty excited to be here and I look forward to working together with you all to make this course a great learning experience.
 
-## Where to find me? {-}
+<br />
+<br />
+
+**Where to find me?**
 
 You can email me anytime at kaflepratap@gmail.com during the office hours. I will try my best to respond during the weekend/holidays but I can't gurantee as I have a pretty young family and I try to work less during the weekends.
 
@@ -68,40 +82,3 @@ leaflet() %>%
 4. Integrate knowledge and skills acquired in this course with cases observed in local veterinary practices
 
 5. Utilize veterinary terminology commonly used in parasitology
-
-
-
-# Syllabus {-}
-
-This course reviews common helminth parasites (nematodes, trematodes, cestodes, acanthocephalans), protozoan and arthropod parasites commonly found in domestic species. The course will also integrate with practical courses delivered during the semester.
-
-## Prerequisite {-}
-
-Enrollment in semester 2 of the DVM program
-
-
-## Weekly course outline {-}
-
-Week   Topic
------- ---------------
-1      Introduction
-2      Nematodes
-3      Nematodes
-4      Nematodes
-5      Nematodes
-6      Treamtodes
-7      Cestodes
-8      Cestodes
-9      Insects
-10     Insects
-11     Acari
-12     Protozoa
-13     Protozoa
-14     Special topics in Veterinary Parasitology
-15     Special topics in Veterinary Parasitology
-16     Final Exam
-
-
-
-
-## Class Schedule {-}

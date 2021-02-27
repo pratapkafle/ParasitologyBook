@@ -1,13 +1,5 @@
-# Syllabus {-}
 
-This course reviews common helminth parasites (nematodes, trematodes, cestodes, acanthocephalans), protozoan and arthropod parasites commonly found in domestic species. The course will also integrate with practical courses delivered during the semester.
-
-## Prerequisite {-}
-
-Enrollment in semester 2 of the DVM program
-
-
-## Weekly course outline {-}
+# Weekly course outline {-}
 
 Week   Topic
 ------ ---------------
@@ -29,14 +21,12 @@ Week   Topic
 16     Final Exam
 
 
-
-
-## Class Schedule {-}
+# Class Schedule {-}
 
 
 
 
-## Suggested reading
+# Suggested reading {-}
 
 
-## Other resources
+# Other resources {-}

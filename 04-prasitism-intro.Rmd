@@ -1,6 +1,6 @@
-# (PART\*) INTRODUCTION to PARASITOLOGY {-}
+# (PART\*) INTRODUCTION {-}
 
-# Parasitism and parasitology {-}
+# Animal associations {-}
 
 On earth, many organisms live together in varied intricate relationships, either temporarily or permanently. The common term for this relationship between organism is SYMBOSIS (Sam meaning “together” and bioses meaning “living” ). Each member of the association is called a symbiont.
 

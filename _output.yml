@@ -1,7 +1,8 @@
 bookdown::gitbook:
-  css: style.css
+  css: style1.css
   config:
     toc:
+      collapse: section
       before: |
         <li><a href="./">Webook of Parasitology for Veterinary Students</a></li>
       after: |

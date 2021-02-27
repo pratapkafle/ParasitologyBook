@@ -1,36 +1,144 @@
 {
     "sources": [
         {
-            "URL": "http://yihui.org/knitr/",
             "author": [
                 {
-                    "family": "Xie",
-                    "given": "Yihui"
+                    "family": "Aziz",
+                    "given": "AR Abdel"
+                },
+                {
+                    "family": "Hassan",
+                    "given": "Amal A."
+                },
+                {
+                    "family": "Elmahallawy",
+                    "given": "E. Kotb"
+                },
+                {
+                    "family": "Elshahawy",
+                    "given": "Ismail Saad"
+                },
+                {
+                    "family": "Almuzaini",
+                    "given": "Abdulaziz M."
                 }
             ],
-            "edition": "2nd",
-            "id": "xie2015",
+            "container-title": "Veterinary Parasitology: Regional Studies and Reports",
+            "id": "azizPrevalenceAssociatedRisk2019",
             "issued": {
                 "date-parts": [
                     [
-                        2015
+                        2019
                     ]
                 ]
             },
-            "note": "ISBN 978-1498716963",
-            "publisher": "Chapman; Hall/CRC",
-            "publisher-place": "Boca Raton, Florida",
-            "title": "Dynamic documents with R and knitr",
-            "type": "book"
+            "page": "100305",
+            "publisher": "Elsevier",
+            "title": "Prevalence and associated risk factors of Toxocara infection in dogs in northern and southern Egypt",
+            "type": "article-journal",
+            "volume": "17"
         },
         {
-            "URL": "https://www.R-project.org/",
             "author": [
                 {
-                    "literal": "R Core Team"
+                    "family": "El Maghrbi",
+                    "given": "A."
+                },
+                {
+                    "family": "Hosni",
+                    "given": "M."
+                },
+                {
+                    "family": "Dayhum",
+                    "given": "A."
+                },
+                {
+                    "family": "Belhage",
+                    "given": "A."
                 }
             ],
-            "id": "R-base",
+            "container-title": "Adv. Anim. Vet. Sci",
+            "id": "elmaghrbiPrevalenceAssociatedRisk2019",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "page": "326-334",
+            "title": "Prevalence and associated risk factors of Toxocara canis eggs in dogs in tripoli, libya",
+            "type": "article-journal",
+            "volume": "7"
+        },
+        {
+            "author": [
+                {
+                    "family": "Hajipour",
+                    "given": "N."
+                }
+            ],
+            "container-title": "Trop Biomed",
+            "id": "hajipourSurveyPrevalenceToxocara2019",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "page": "143-51",
+            "title": "A survey on the prevalence of Toxocara cati, Toxocara canis and Toxascaris leonina eggs in stray dogs and cats’ faeces in Northwest of Iran: A potential risk for human health",
+            "title-short": "A survey on the prevalence of Toxocara cati, Toxocara canis and Toxascaris leonina eggs in stray dogs and cats’ faeces in Northwest of Iran",
+            "type": "article-journal",
+            "volume": "36"
+        },
+        {
+            "author": [
+                {
+                    "family": "Iddawela",
+                    "given": "Devika"
+                },
+                {
+                    "family": "Ehambaram",
+                    "given": "Kiruthiha"
+                },
+                {
+                    "family": "Bandara",
+                    "given": "Pemindra"
+                }
+            ],
+            "container-title": "BMC ophthalmology",
+            "id": "iddawelaPrevalenceToxocaraAntibodies2017",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "page": "1-6",
+            "publisher": "BioMed Central",
+            "title": "Prevalence of Toxocara antibodies among patients clinically suspected to have ocular toxocariasis: A retrospective descriptive study in Sri Lanka",
+            "title-short": "Prevalence of Toxocara antibodies among patients clinically suspected to have ocular toxocariasis",
+            "type": "article-journal",
+            "volume": "17"
+        },
+        {
+            "author": [
+                {
+                    "family": "Ketzis",
+                    "given": "Jennifer K."
+                },
+                {
+                    "family": "Lucio-Forster",
+                    "given": "Araceli"
+                }
+            ],
+            "container-title": "Advances in parasitology",
+            "id": "ketzisToxocaraCanisToxocara2020",
             "issued": {
                 "date-parts": [
                     [
@@ -38,211 +146,129 @@
                     ]
                 ]
             },
-            "publisher": "R Foundation for Statistical Computing",
-            "publisher-place": "Vienna, Austria",
-            "title": "R: A language and environment for statistical computing",
-            "title-short": "R",
-            "type": "book"
+            "page": "655-714",
+            "publisher": "Elsevier",
+            "title": "Toxocara canis and Toxocara cati in domestic dogs and cats in the United States, Mexico, Central America and the Caribbean: A review",
+            "title-short": "Toxocara canis and Toxocara cati in domestic dogs and cats in the United States, Mexico, Central America and the Caribbean",
+            "type": "article-journal",
+            "volume": "109"
         },
         {
-            "URL": "https://github.com/rstudio/bookdown",
             "author": [
                 {
-                    "family": "Xie",
-                    "given": "Yihui"
+                    "family": "Kim",
+                    "given": "Hong-Beum"
+                },
+                {
+                    "family": "Seo",
+                    "given": "Jun-Won"
+                },
+                {
+                    "family": "Lee",
+                    "given": "Jun-Hyung"
+                },
+                {
+                    "family": "Choi",
+                    "given": "Byung-Seok"
+                },
+                {
+                    "family": "Park",
+                    "given": "Sang-Gon"
                 }
             ],
-            "id": "R-bookdown",
+            "container-title": "The Korean journal of internal medicine",
+            "id": "kimEvaluationPrevalenceClinical2017",
+            "issue": "3",
             "issued": {
                 "date-parts": [
                     [
-                        2020
+                        2017
                     ]
                 ]
             },
-            "note": "R package version 0.21",
-            "title": "Bookdown: Authoring books and technical documents with r markdown",
-            "title-short": "Bookdown",
-            "type": "book"
+            "page": "523",
+            "publisher": "Korean Association of Internal Medicine",
+            "title": "Evaluation of the prevalence and clinical impact of toxocariasis in patients with eosinophilia of unknown origin",
+            "type": "article-journal",
+            "volume": "32"
         },
         {
-            "URL": "https://yihui.org/knitr/",
             "author": [
                 {
-                    "family": "Xie",
-                    "given": "Yihui"
+                    "family": "Kleine",
+                    "given": "Annika"
+                },
+                {
+                    "family": "Springer",
+                    "given": "Andrea"
+                },
+                {
+                    "family": "Strube",
+                    "given": "Christina"
                 }
             ],
-            "id": "R-knitr",
+            "container-title": "Parasites & vectors",
+            "id": "kleineSeasonalVariationPrevalence2017",
+            "issue": "1",
             "issued": {
                 "date-parts": [
                     [
-                        2021
+                        2017
                     ]
                 ]
             },
-            "note": "R package version 1.31",
-            "title": "Knitr: A general-purpose package for dynamic report generation in r",
-            "title-short": "Knitr",
-            "type": "book"
+            "page": "1-8",
+            "publisher": "BioMed Central",
+            "title": "Seasonal variation in the prevalence of Toxocara eggs on children’s playgrounds in the city of Hanover, Germany",
+            "type": "article-journal",
+            "volume": "10"
         },
         {
-            "URL": "https://github.com/rstudio/rmarkdown",
             "author": [
                 {
-                    "family": "Allaire",
-                    "given": "JJ"
+                    "family": "Modi",
+                    "given": "Manish"
                 },
                 {
-                    "family": "Xie",
-                    "given": "Yihui"
+                    "family": "Singh",
+                    "given": "Rajveer"
                 },
                 {
-                    "family": "McPherson",
-                    "given": "Jonathan"
+                    "family": "Goyal",
+                    "given": "Manoj Kumar"
                 },
                 {
-                    "family": "Luraschi",
-                    "given": "Javier"
+                    "family": "Gairolla",
+                    "given": "Jitender"
                 },
                 {
-                    "family": "Ushey",
-                    "given": "Kevin"
+                    "family": "Singh",
+                    "given": "Gagandeep"
                 },
                 {
-                    "family": "Atkins",
-                    "given": "Aron"
+                    "family": "Rishi",
+                    "given": "Vivek"
                 },
                 {
-                    "family": "Wickham",
-                    "given": "Hadley"
+                    "family": "Thakur",
+                    "given": "J. S."
                 },
                 {
-                    "family": "Cheng",
-                    "given": "Joe"
+                    "family": "Sehgal",
+                    "given": "R. K."
                 },
                 {
-                    "family": "Chang",
-                    "given": "Winston"
+                    "family": "Garg",
+                    "given": "Vivek Kumar"
                 },
                 {
-                    "family": "Iannone",
-                    "given": "Richard"
+                    "family": "Khandelwal",
+                    "given": "Niranjan"
                 }
             ],
-            "id": "R-rmarkdown",
-            "issued": {
-                "date-parts": [
-                    [
-                        2020
-                    ]
-                ]
-            },
-            "note": "R package version 2.6",
-            "title": "Rmarkdown: Dynamic documents for r",
-            "title-short": "Rmarkdown",
-            "type": "book"
-        },
-        {
-            "URL": "https://github.com/rstudio/bookdown",
-            "author": [
-                {
-                    "family": "Xie",
-                    "given": "Yihui"
-                }
-            ],
-            "id": "bookdown2016",
-            "issued": {
-                "date-parts": [
-                    [
-                        2016
-                    ]
-                ]
-            },
-            "note": "ISBN 978-1138700109",
-            "publisher": "Chapman; Hall/CRC",
-            "publisher-place": "Boca Raton, Florida",
-            "title": "Bookdown: Authoring books and technical documents with R markdown",
-            "title-short": "Bookdown",
-            "type": "book"
-        },
-        {
-            "URL": "https://yihui.org/knitr/",
-            "author": [
-                {
-                    "family": "Xie",
-                    "given": "Yihui"
-                }
-            ],
-            "edition": "2nd",
-            "id": "knitr2015",
-            "issued": {
-                "date-parts": [
-                    [
-                        2015
-                    ]
-                ]
-            },
-            "note": "ISBN 978-1498716963",
-            "publisher": "Chapman; Hall/CRC",
-            "publisher-place": "Boca Raton, Florida",
-            "title": "Dynamic documents with R and knitr",
-            "type": "book"
-        },
-        {
-            "URL": "http://www.crcpress.com/product/isbn/9781466561595",
-            "author": [
-                {
-                    "family": "Xie",
-                    "given": "Yihui"
-                }
-            ],
-            "container-title": "Implementing reproducible computational research",
-            "editor": [
-                {
-                    "family": "Stodden",
-                    "given": "Victoria"
-                },
-                {
-                    "family": "Leisch",
-                    "given": "Friedrich"
-                },
-                {
-                    "family": "Peng",
-                    "given": "Roger D."
-                }
-            ],
-            "id": "knitr2014",
-            "issued": {
-                "date-parts": [
-                    [
-                        2014
-                    ]
-                ]
-            },
-            "note": "ISBN 978-1466561595",
-            "publisher": "Chapman; Hall/CRC",
-            "title": "Knitr: A comprehensive tool for reproducible research in R",
-            "title-short": "Knitr",
-            "type": "chapter"
-        },
-        {
-            "URL": "https://bookdown.org/yihui/rmarkdown",
-            "author": [
-                {
-                    "family": "Xie",
-                    "given": "Yihui"
-                },
-                {
-                    "family": "Allaire",
-                    "given": "J. J."
-                },
-                {
-                    "family": "Grolemund",
-                    "given": "Garrett"
-                }
-            ],
-            "id": "rmarkdown2018",
+            "container-title": "Annals of Indian Academy of Neurology",
+            "id": "modiPrevalenceEpilepsyIts2018",
+            "issue": "4",
             "issued": {
                 "date-parts": [
                     [
@@ -250,30 +276,146 @@
                     ]
                 ]
             },
-            "note": "ISBN 9781138359338",
-            "publisher": "Chapman; Hall/CRC",
-            "publisher-place": "Boca Raton, Florida",
-            "title": "R markdown: The definitive guide",
-            "title-short": "R markdown",
-            "type": "book"
+            "page": "263",
+            "publisher": "Wolters Kluwer–Medknow Publications",
+            "title": "Prevalence of epilepsy and its association with exposure to toxocara canis: A community based, case–control study from rural northern India",
+            "title-short": "Prevalence of epilepsy and its association with exposure to toxocara canis",
+            "type": "article-journal",
+            "volume": "21"
         },
         {
-            "URL": "https://bookdown.org/yihui/rmarkdown-cookbook",
+            "URL": "https://parasitology.cvm.ncsu.edu/",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        26
+                    ]
+                ]
+            },
+            "id": "NCSUVeterinaryParasitology",
+            "title": "NCSU Veterinary Parasitology",
+            "type": "webpage"
+        },
+        {
+            "URL": "https://parasitology.cvm.ncsu.edu/",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        26
+                    ]
+                ]
+            },
+            "id": "NCSUVeterinaryParasitologya",
+            "title": "NCSU Veterinary Parasitology",
+            "type": "webpage"
+        },
+        {
+            "URL": "https://parasitology.cvm.ncsu.edu/",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        26
+                    ]
+                ]
+            },
+            "id": "NCSUVeterinaryParasitologyb",
+            "title": "NCSU Veterinary Parasitology",
+            "type": "webpage"
+        },
+        {
             "author": [
                 {
-                    "family": "Xie",
-                    "given": "Yihui"
+                    "family": "Papavasilopoulos",
+                    "given": "Vasilios"
                 },
                 {
-                    "family": "Dervieux",
-                    "given": "Christophe"
+                    "family": "Pitiriga",
+                    "given": "Vassiliki"
                 },
                 {
-                    "family": "Riederer",
-                    "given": "Emily"
+                    "family": "Birbas",
+                    "given": "Konstantinos"
+                },
+                {
+                    "family": "Elefsiniotis",
+                    "given": "John"
+                },
+                {
+                    "family": "Bonatsos",
+                    "given": "Gerasimos"
+                },
+                {
+                    "family": "Tsakris",
+                    "given": "Athanasios"
                 }
             ],
-            "id": "rmarkdown2020",
+            "container-title": "Germs",
+            "id": "papavasilopoulosSoilContaminationToxocara2018",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "page": "155",
+            "publisher": "European Academy of HIV/AIDS and Infectious Diseases",
+            "title": "Soil contamination by Toxocara canis and human seroprevalence in the Attica region, Greece",
+            "type": "article-journal",
+            "volume": "8"
+        },
+        {
+            "author": [
+                {
+                    "family": "Rostami",
+                    "given": "Ali"
+                },
+                {
+                    "family": "Riahi",
+                    "given": "Seyed Mohammad"
+                },
+                {
+                    "family": "Hofmann",
+                    "given": "Andreas"
+                },
+                {
+                    "family": "Ma",
+                    "given": "Guangxu"
+                },
+                {
+                    "family": "Wang",
+                    "given": "Tao"
+                },
+                {
+                    "family": "Behniafar",
+                    "given": "Hamed"
+                },
+                {
+                    "family": "Taghipour",
+                    "given": "Ali"
+                },
+                {
+                    "family": "Fakhri",
+                    "given": "Yadolah"
+                },
+                {
+                    "family": "Spotin",
+                    "given": "Adel"
+                },
+                {
+                    "family": "Chang",
+                    "given": "Bill CH"
+                }
+            ],
+            "container-title": "Advances in parasitology",
+            "id": "rostamiGlobalPrevalenceToxocara2020",
             "issued": {
                 "date-parts": [
                     [
@@ -281,15 +423,14 @@
                     ]
                 ]
             },
-            "note": "ISBN 9780367563837",
-            "publisher": "Chapman; Hall/CRC",
-            "publisher-place": "Boca Raton, Florida",
-            "title": "R markdown cookbook",
-            "type": "book"
+            "page": "561-583",
+            "publisher": "Elsevier",
+            "title": "Global prevalence of Toxocara infection in dogs",
+            "type": "chapter",
+            "volume": "109"
         }
     ],
     "project_biblios": [
-        "book.bib",
-        "packages.bib"
+        "book.bib"
     ]
 }
