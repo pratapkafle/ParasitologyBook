@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "3f96ed192e759da6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f20e917178076e27",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "images/beetle.jpg"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b439aa6c0ff7ebee",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfccbae50d14c508",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d5ca1dd3ce7ff61",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "febb36a0cd0b364e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cea8a85ad1f1c9cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d60bace0ffe0f73d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f35feaf6abe11fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "images/beetle.jpg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "images/beetle.jpg"
+  ]
+}

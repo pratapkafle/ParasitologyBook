@@ -1,5 +1,11 @@
 
-# *Spirocerca lupi*
+# Ascarids of Dogs and Cats
+
+1. *Toxocara canis*
+2. *Toxocara cati*
+3. *Toxascaris leolina*
+4. *Balysascaris*
+
 
 
 ## Taxonomy
@@ -10,8 +16,6 @@
 * Family: Spirocercidae
 * Genus: Spiricerca
 * Species: _S. lupi_
-
-
 
 
 ## Epidemiology

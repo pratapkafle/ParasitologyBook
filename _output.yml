@@ -1,5 +1,6 @@
 bookdown::gitbook:
-  css: style1.css
+  css: style.css
+  split_by: chapter
   config:
     toc:
       collapse: section
@@ -8,10 +9,5 @@ bookdown::gitbook:
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     download: ["pdf", "epub"]
-bookdown::pdf_book:
-  includes:
-    in_header: preamble.tex
-  latex_engine: xelatex
-  citation_package: natbib
-  keep_tex: yes
-bookdown::epub_book: default
+bookdown::html_chapters:
+  css: css/style.css

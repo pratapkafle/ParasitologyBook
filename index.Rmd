@@ -5,25 +5,20 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
-bibliography: [book.bib]
-biblio-style: apalike
+bibliography: "book.bib"
+biblio-style: "apalike"
 link-citations: yes
 github-repo: pratapkafle/ParasitologyBook
 description: "Veterinary Parasitology webook for DVM students"
 ---
 
-# (PART\*) PREFACE {-}
-
-# Welcome {-}
+# Welcome {.unnumbered}
 
 Welcome to the world of parasites. This webbook is prepared as a reference resource to the Vet Parasitology Course and will elaborate on the things discussed in the lectures. I will keep on updating this resource regularly.
 
 ![](images/cover.jpg)
 
-
-
-
-``` {block2 type="imp"}
+```{block2 type="imp"}
 * Pelase use this web book only as refernce material and refrain from sharing it elsewhere. I have sections which are not properly referenced and the some images might not have proper credits, so please check with me if you want to share the images publicly.
 
 * Dont rely fully on this book. There are plenty of resource available to expand your knowledge on veterinary parasitology.
