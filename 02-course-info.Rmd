@@ -1,5 +1,16 @@
 
-# Weekly course outline {-}
+# Course outline {-}
+
+
+This course is scheduled for 30 lectures, 5 class discussions, and 2 exams.
+
+Introductory lectures will provide a basic understanding of parasitology, highlighting key definitions and concepts, and introducing the major taxonomic groups of parasites (helminths, arthropods, and protozoa).
+
+After the introduction, material will be presented by host species. For each host, we will discuss helminths, then arthropods, then protozoa. Topics covered for each parasite include host and geographic distribution, life cycle, epidemiology, pathogenesis, diagnosis, and principles of control. The emphasis will be on parasites of clinical importance in domestic animals mainly in North America, as well as parasites that have zoonotic potential.
+
+PDF versions of Powerpoint slides will be posted online prior to each class. Students are welcome to record lectures for personal use. Lecture capture may be offered if requested.
+
+
 
 Week   Topic
 ------ ---------------
@@ -26,7 +37,17 @@ Week   Topic
 
 
 
-# Suggested reading {-}
+# Some resources {-}
+
+[US-based Companion Animal Parasite Council](http://www.capcvet.org)
+
+[Canadian Parasitology Expert Panel Guidelines](https://research-groups.usask.ca/cpep/index.php#Protocol) 
+
+[European Scientific Counsel Companion Animal Parasites](http://www.esccap.org)
+
+[Australian Society for Parasitology](http://parasite.org.au/publications/australasian-animal-parasites-inside-and-out/)
+
+[Centres for Disease Control (zoonoses and human parasites)](http://www.cdc.gov/parasites/ Nematode taxonomy: http://cal.vet.upenn.edu/projects/merial/Nematodes/Table1.htm)
 
 
-# Other resources {-}
+# Suggested textbooks {-}

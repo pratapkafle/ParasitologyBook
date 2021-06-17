@@ -1,5 +1,7 @@
 
-# Course Info {-}
+# Preface {-}
+
+## Course Info {-}
 
 - Course Number: DVM 523
 - Course Title: Veterinary Parasitology
@@ -16,7 +18,7 @@ This course reviews common helminth parasites (nematodes, trematodes, cestodes, 
 Enrollment in semester 2 of the DVM program
 
 
-# Instructor Info {-}
+## Instructor Info {-}
 
 My name is Pratap Kafle. You can call me by my first name (Pratap) or Dr. Kafle, or Prof. Kafle, whatever you like!
 
@@ -43,7 +45,7 @@ leaflet() %>%
 ```
 
 
-# Curricular Endpoints {-}
+## Curricular Endpoints {-}
 
 - PCC1. Demonstrate knowledge and understanding of the central biological principles and mechanisms that underlie animal health and disease from the molecular and cellular level to organismal and population manifestations.
 

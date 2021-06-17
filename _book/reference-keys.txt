@@ -7,7 +7,7 @@ diagnosis
 treatment
 controlprevention
 morphology-of-adult-stage-and-egg-states
-spirocerca-lupi
+slupi
 taxonomy-1
 epidemiology-1
 life-cycle-1

@@ -1,32 +1,33 @@
-# (PART\*) INTRODUCTION {-}
+# (PART\*) BASIC CONCEPTS {-}
 
-# Animal associations {-}
+# What are parasites? {-}
+
+Parasites are living organisms that depend upon other organisms for their food and survival. 
+
+The association between parasite and host is called parasitism
+
 
 On earth, many organisms live together in varied intricate relationships, either temporarily or permanently. The common term for this relationship between organism is SYMBOSIS (Sam meaning “together” and bioses meaning “living” ). Each member of the association is called a symbiont.
 
+
+```{block2 type="note"}
+
 There are five types of symbiotic relationships:
 
-1. Predator-prey :
-	⁃	One species (predator) benefits at the expense of the other (prey)
-	⁃	Extremely short-term relationship
-	⁃	Eg: Lion and Zebra - Lion (predator) kills zebra (prey) for food.
+1. **Predator-prey**: One species (predator) benefits at the expense of the other (prey). This relationship is extremely short-term. Eg: Lion and Zebra - Lion (predator) kills zebra (prey) for food.
 
-2. Phoresis (phore meaning “to carry”):
-	⁃	Smallest member is mechanically carried about by the larger member
-	⁃	E.g.:
+2. **Phoresis** (phore meaning “to carry”) : Smallest member is mechanically carried about by the larger member. E.g.:
 
-3. Mutualism:
-	⁃	Each species dependent on the other for their mutual well-being and survival (e.g. cellulose-digesting organisms in the caecum of a horse).
+3. **Mutualism**: Each species dependent on the other for their mutual well-being and survival (e.g. cellulose-digesting organisms in the caecum of a horse).
 
-4. Commensalism:
-	⁃	One symbiont benefits and the other is neither benefited nor harmed.
-	⁃	E.g:
+4. **Commensalism**: One symbiont benefits and the other is neither benefited nor harmed. E.g:
 
-5. Parasitism
-Parasitism is the mode of existence in which one organism, the parasite, infects another, the host, and the parasite does some measure of harm to the host while itself deriving a benefit. Parasitism is one of the most common lifestyles on earth.
+5. **Parasitism** : one organism, the parasite, infects another, the host, and the parasite does some measure of harm to the host while itself deriving a benefit. Parasitism is one of the most common lifestyles on earth.
 
-Parasitism is part of a spectrum of intimate zoological relationships between unrelated organisms
-The features of this ecological relationship are:[^1]
+```
+
+**Parasitism** is part of a spectrum of intimate zoological relationships between unrelated organisms
+The features of this ecological relationship are [^ref]: 
 
 - the parasite is physiologically dependent on the host;
 - the infection process produces or tends to produce an over-dispersed distribution of parasites within the host population;
@@ -44,16 +45,15 @@ Parasite produce obvious harm/injury to the host manifested by clinical signs
 E.g.: Emaciated cow on pasture certainly carries roundworms.
 
 
-[^1] R.M. Anderson and R.M. May (1978) Regulation and stability in hostparasite
-population interactions I Regulatory processes. Journal of Animal
+[^ref] R.M. Anderson and R.M. May (1978) Regulation and stability in hostparasite population interactions I Regulatory processes. Journal of Animal
 Ecology 47, 219-247.
 
 
-## Parasitology {-}
+# what is Parasitology {-}
 
 Parasitology is the study of parasitism; a multidisciplinary subject encompassing many topics including morphology, taxonomy, biology, behaviour, life-cycles, pathogenesis, epidemiology, ecology, physiology, biochemistry, genetics and molecular biology, as well as the diagnosis, immunology and treatment of parasitic infections.
 
-## why should we study parasitology? {-}
+# Why should we study parasitology? {-}
 
 The field of veterinary parasitology has important implications for human and animal health. Parasites remain the major cause of numerous clinical and subclinical diseases in humans, domestic animals, wildlife often resulting in loss of lives and productivity.  Hence, parasites can cause tremendous economic loss, and greatly impede the economic development of some countries, especially in the tropics.
 

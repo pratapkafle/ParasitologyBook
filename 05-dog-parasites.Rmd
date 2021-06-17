@@ -8,9 +8,9 @@
 
 **GI nematodes**
 
-Parasite name         Niche            LifeCycle     Intermediate hosts       PPP
-----------------      -------------    ----------    ---------------------    --------------
-Spirocerca lupi       Esophagus        Indirect      Coporphagous beetles     2-3 months
+Parasite name         Niche            Life Cycle    Intermediate hosts       Prepatent period    Diagnosis    Treatment
+----------------      -------------    ----------    ---------------------    -----------------   ---------    ------------
+[Spirocerca lupi]{#slupi}       Esophagus        Indirect      Coporphagous beetles     2-3 months          Fecal exam    Praziquintol
 Physaloptera          Stomach          Direct        None                     5 months
 
 

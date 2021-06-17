@@ -1,10 +1,41 @@
-.rmdtip {
-  padding: 1em 1em 1em 4em;
-  margin-bottom: 10px;
-  font-weight: bold;
-  background: #f5f5f5 5px center/3em no-repeat;
-  background-image: url("../images/tip.png");
+.caution {
+  border: 1px #aed6d963;
+  border-style: dashed solid;
+  padding: 1em;
+  margin: 1em 0;
+  padding-left: 100px;
+  background-size: 70px;
+  background-repeat: no-repeat;
+  background-position: 15px center;
+  min-height: 120px;
+  color: #2ea8b3;
+  background-color: #fcfcfc;
+  background-image: url("general_images/caution.png");
 }
+
+
+.note {
+  border: 1px #aed6d963;
+  border-style: solid;
+  padding: 1em;
+  margin: 1em 0;
+  padding-left: 100px;
+  background-size: 70px;
+  background-repeat: no-repeat;
+  background-position: 15px center;
+  min-height: 120px;
+  color: black;
+  background-color: #fcfcfc;
+  background-image: url("general_images/note.png");
+}
+
+.pname {
+  border: 1px #aed6d963;
+  border-style: solid;
+  padding: 1em;
+  margin: 1em 0;
+}
+
 
 table {
   font-size: .833em !important;
@@ -76,7 +107,7 @@ pre code {
   border-bottom: 1px solid;
 }
 
-.imp {
+.tip {
   border: 1px #aed6d963;
   border-style: dashed solid;
   padding: 1em;
