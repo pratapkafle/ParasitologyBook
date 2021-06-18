@@ -1,16 +1,18 @@
-# (PART\*) BASIC CONCEPTS {-}
+# (PART\*) INTRODUCTORY PARASITOLOGY {-}
 
-# What are parasites? {-}
-
-Parasites are living organisms that depend upon other organisms for their food and survival. 
-
-The association between parasite and host is called parasitism
+# Parasites, Hosts and their relationship
 
 
-On earth, many organisms live together in varied intricate relationships, either temporarily or permanently. The common term for this relationship between organism is SYMBOSIS (Sam meaning “together” and bioses meaning “living” ). Each member of the association is called a symbiont.
+## What are parasites? {-}
+
+Parasites are living organisms that depend upon other organisms for their food and survival. Parasites live at the expense of their hosts. Many parasites don't cause visible clinical signs (asymptomatic) whereas others may cause acute to chronic diseases of varying severity, sometimes leading to the death of the host.
+
+The association between parasite and host is called parasitism. This the most common way of life. More than 50% of all animal species are parasites.
 
 
 ```{block2 type="note"}
+
+On earth, many organisms live together in varied intricate relationships, either temporarily or permanently. The common term for this relationship between organism is SYMBOSIS (Sam meaning “together” and bioses meaning “living” ). Each member of the association is called a symbiont.
 
 There are five types of symbiotic relationships:
 
@@ -26,34 +28,46 @@ There are five types of symbiotic relationships:
 
 ```
 
-**Parasitism** is part of a spectrum of intimate zoological relationships between unrelated organisms
-The features of this ecological relationship are [^ref]: 
+**Parasitism** is part of a spectrum of intimate zoological relationships between unrelated organisms.
 
-- the parasite is physiologically dependent on the host;
-- the infection process produces or tends to produce an over-dispersed distribution of parasites within the host population;
-- the parasite kills heavily infected hosts;
-- the parasite species has a higher reproductive potential than the host species.
+The features of this ecological relationship are^[R.M. Anderson and R.M. May (1978) Regulation and stability in host-parasite population interactions I Regulatory processes. Journal of Animal Ecology 47, 219-247. https://doi.org/10.2307/3933]:
+
+- the parasite is physiologically dependent on the host
+- the infection process produces or tends to produce an over-dispersed distribution of parasites within the host population
+- the parasite kills heavily infected hosts
+- the parasite species has a higher reproductive potential than the host species
+
+```{block2 type="tip"}
+
+**Over dispersed distribution**
+
+In a natural host population, the macroparasites (parasitic helminths and arthropods) are often aggregated (not uniformly distributed among the hosts). In other words, few animals in the population carry most of the parasites and many animals carry few parasites. This is called over dispersed distribution of the parasites. This is a recurring pattern in almost all macroparasites.
+
+The graph below describes a typical parasite distribution across the host population
+
+![Fig: Typical distribution pattern of a macroparasite within its hots. Pic taken from [this blogpost](https://parasiteecology.wordpress.com/2014/05/14/macroparasites-are-aggregately-distributed-among-hosts/)](https://parasiteecology.files.wordpress.com/2014/06/aggregationgraph.png)
+
+
+*This aggregation can result from many ecological processes, mainly due to variation in infection rates among hosts!*
+
+```
 
 **Parasitism can occur in varying degrees**
 
-- Parasitiasis:
+**Parasitiasis**:
 
 Parasite within the host is potentially harmful but the host doesn’t show obvious clinical signs of the disease. E.g : Cattle on pasture may carry trichrongyles (roundworms) without showing any clinical signs
 
-- Parasitosis:
+**Parasitosis**
 Parasite produce obvious harm/injury to the host manifested by clinical signs
 E.g.: Emaciated cow on pasture certainly carries roundworms.
 
 
-[^ref] R.M. Anderson and R.M. May (1978) Regulation and stability in hostparasite population interactions I Regulatory processes. Journal of Animal
-Ecology 47, 219-247.
-
-
-# what is Parasitology {-}
+## what is Parasitology {-}
 
 Parasitology is the study of parasitism; a multidisciplinary subject encompassing many topics including morphology, taxonomy, biology, behaviour, life-cycles, pathogenesis, epidemiology, ecology, physiology, biochemistry, genetics and molecular biology, as well as the diagnosis, immunology and treatment of parasitic infections.
 
-# Why should we study parasitology? {-}
+## Why should we study parasitology? {-}
 
 The field of veterinary parasitology has important implications for human and animal health. Parasites remain the major cause of numerous clinical and subclinical diseases in humans, domestic animals, wildlife often resulting in loss of lives and productivity.  Hence, parasites can cause tremendous economic loss, and greatly impede the economic development of some countries, especially in the tropics.
 
@@ -77,3 +91,40 @@ Nearly 40% of the species on earth are parasitic of some kind. Parasites are oft
 
 
 [^2] https://www.nature.com/scitable/knowledge/library/ecological-consequences-of-parasitism-13255694/
+
+
+
+
+# Types of Parasites and hosts
+
+## Parasite types:
+
+**Commonly used terms to describe different types of parasites**
+
+- ***Endoparasites (Internal parasites)***: There are the parasite which lives inside the body of the host, in the blood, tissues, body cavities, digestive tract and other organs. e.g. trematodes, cestodes and nematodes.
+
+- ***Ectoparasites (External parasites)***: Those parasites, which live out side on the surface of the body of the host. e.g. lice, ticks, mites, fleas etc.
+
+- ***Temporary parasites***: Those parasite, which visits its host for a short period e.g. ticks and fleas.
+
+- ***Permanent parasites***: These are the parasite, which live a parasitic life in or on the host body throughout the whole period of its life.
+
+- ***Facultative parasite***: Are those parasites, which live a parasitic life when opportunity arises or a facultative parasite is able to live either free or as a parasite. e.g. Strongyloides spp.
+
+- ***Obligatory parasite***: Are those parasite, which can’t exist without a parasitic life e.g. *Trichinella sp.*, *Plasmodium sp.*
+
+- ***Incidental or Occasional or Accidental Parasite***: These are the parasite, which attacks an unusual host in which they do not occur normally. e.g Fasciola hepatica some time  or accidentally occurs in man.
+
+- ***Wandering or Erratic or Aberrent Parasite***: Those parasite, which happens to reach a place or organs where it can’t live e.g. Stephanurus dentatus. Some time found in the liver of pig but the usual site is in the pelvis of the kidney. (Dioctophyma renale kidney worm of dog).
+
+- ***Periodic or sporadic parasite***: Are the parasites, which visits their host at the time to obtain some metabolic requirement or some other benefits. e.g. Mosquitos,  flies Tabanus sp.
+
+- ***Hyperparasite***: It is an organism, which parasitizes to another parasite e.g. protozoan parasite Nosema dollfusi as a hyperparasite in the larval stage of a flat worm or Trematode Bucephalus cuculus.
+
+- ***Monoxenic parasite***: These are parasite, which require only one type of host during their life cycle. e.g. Ascaris suum  (pig) Haemonchus contortus (Sheep, goat & cattle) Ancylostoma coninum (Dog.)
+
+- ***Heteroxenic parasite***: The parasite requires more than one host to complete their life cycle. The life cycle of these parasite is indirect in nature e.g. Trematodes & cestodes: Fasciola hepatica uses ruminants as definitive hosts and snail as intermediate hosts. Dicrocoelium sp. uses ruminants as definitive hosts, Snail as first intermediate host and Ant as second intermediate hosts.
+
+- ***Microparasites***: These multiply within their host. Consequently, each organism that enters the body is capable of initiating a massive infection if not checked by host defences or by chemotherapy. This category includes the parasitic protozoa (as well as microorganisms such as bacteria). Eg: Toxoplasma, E. coli.
+
+- ***Macroparasites***: these do not generally increase in number while they are on or within the final host. They may produce eggs or larvae but these are dispersed into the environment. Thus, the number of mature parasites on or in the final host never exceeds the number of infective units that originally invaded the body. This category includes arthropods and helminths, although there are a few species that break the general rule by multiplying on or in the host (for example: lice, mites and a few nematodes, e.g. some Strongyloides species)

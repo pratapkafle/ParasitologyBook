@@ -16,3 +16,7 @@ diagnosis-1
 treatment-1
 controlprevention-1
 morphology-of-adult-stage-and-egg-states-1
+parasites-hosts-and-their-relationship
+classification-of-parasites
+types-of-parasites-and-hosts
+parasite-types

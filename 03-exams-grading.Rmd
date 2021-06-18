@@ -16,7 +16,7 @@ TOTAL         200 points       100%
 ## Grading policy {-}
 
 Percentage    Grade     GPA
-----------    ------    -------
+------------  --------  ---------
 90 or more    A         4
 88 - 90       A-        3.667
 85 - 87       B+        3.333

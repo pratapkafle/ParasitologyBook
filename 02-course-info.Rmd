@@ -2,46 +2,63 @@
 # Course outline {-}
 
 
-This course is scheduled for 30 lectures, 5 class discussions, and 2 exams.
+The course will contain 45 contact hours (50 mins each) starting from August 23, 2021 through to the first week of December, 2021. There will be 3 lectures/week. Roughly every 4 weeks a midterm exam will be held (3 in total) which will be 50 mins long. Final exam will be held on the 16th week of the course.
 
 Introductory lectures will provide a basic understanding of parasitology, highlighting key definitions and concepts, and introducing the major taxonomic groups of parasites (helminths, arthropods, and protozoa).
 
 After the introduction, material will be presented by host species. For each host, we will discuss helminths, then arthropods, then protozoa. Topics covered for each parasite include host and geographic distribution, life cycle, epidemiology, pathogenesis, diagnosis, and principles of control. The emphasis will be on parasites of clinical importance in domestic animals mainly in North America, as well as parasites that have zoonotic potential.
 
-PDF versions of Powerpoint slides will be posted online prior to each class. Students are welcome to record lectures for personal use. Lecture capture may be offered if requested.
+PDF versions of Powerpoint slides will be posted online prior to each class. Lecture capture may be offered if requested.
 
 
 
 Week   Topic
 ------ ---------------
-1      Introduction
-2      Nematodes
-3      Nematodes
-4      Nematodes
-5      Nematodes
-6      Treamtodes
-7      Cestodes
-8      Cestodes
-9      Insects
-10     Insects
-11     Acari
-12     Protozoa
-13     Protozoa
-14     Special topics in Veterinary Parasitology
-15     Special topics in Veterinary Parasitology
+1      Introductory Parasitology – Helminth and Arthropod biology
+2      Introductory Parasitology – Protozoa biology, and Diagnostic methods
+3      Canine and Feline parasites - Nematodes
+4      Canine and Feline parasites – Cestodes, Trematodes | MIDTERM exam
+5      Canine and Feline parasites – Arthropods, Protozoa
+6      Cattle and Sheep/goat parasites - Nematodes
+7      Cattle and Sheep/goat parasites - Nematodes
+8      Cattle and Sheep/goat parasites - Cestodes, Trematodes | MIDTERM exam
+9      Cattle and sheep/goat parasites – Protozoa, Arthropods
+10     Equine parasites - Helminths
+11     Equine parasites – Protozoa, Arthropods
+12     Pigs and poultry parasites | MIDTERM exam
+13     Special topics – Parasite management, Anthelmintic resistance
+14     Special topics – Tick and Tickborne diseases
+15     Special topics – Invited lectures, Discussions, Q and A
 16     Final Exam
 
 
 # Class Schedule {-}
 
+TBD
 
+
+# Suggested textbooks {-}
+
+There are quite a few great Veterinary Parasitology textbooks in the market. Some of them go in great depths while others are more focused on practice/applications. My suggestion is to pay attention to the fundamentals, and chose a book that has a balance between concepts and application. Don't get hung into taxonomy but if you can study the parasites by groups and understand the major characteristics, you will be able to do parasitology.
+
+I suggest the following textbooks
+
+1. [Georgis' Parasitology for Veterinarians 11th edition](https://www.elsevier.com/books/georgis-parasitology-for-veterinarians/bowman/978-0-323-54396-5) - Author: Dwight D. Bowman - *This could be your primary textbook*
+
+2. [Veterinary Clinical Parasitology, 9th edition](https://www.wiley.com/en-am/Veterinary+Clinical+Parasitology,+9th+Edition-p-9781119300779). Authors: Anne M. Zajac, Gary A. Conboy, Susan E. Little, Mason V. Reichard. 9th edition available as E-book only  but print will be available in September. - *This book is really good at presenting the information in concise and in more practical way*.
+
+For supplementary reading:
+
+1. [Veterinary Parasitology, 4th edition](https://www.wiley.com/en-us/Veterinary+Parasitology%2C+4th+Edition-p-9780470671627). Authors: MA Taylor, RL Coop, RL Wall. *Very comprehensive* If you plan to become a parasitologist, I highly recommend you buy this.
+
+2. [Veterinary Parasitology Reference Manual, 5th edition](https://www.wiley.com/en-us/Veterinary+Parasitology+Reference+Manual%2C+5th+Edition-p-9780813824192). Author: Willian J. Foreyt. *More like a lab mannual*
 
 
 # Some resources {-}
 
-[US-based Companion Animal Parasite Council](http://www.capcvet.org)
+[Companion Animal Parasite Council](http://www.capcvet.org)
 
-[Canadian Parasitology Expert Panel Guidelines](https://research-groups.usask.ca/cpep/index.php#Protocol) 
+[Canadian Parasitology Expert Panel Guidelines](https://research-groups.usask.ca/cpep/index.php#Protocol)
 
 [European Scientific Counsel Companion Animal Parasites](http://www.esccap.org)
 
@@ -49,5 +66,10 @@ Week   Topic
 
 [Centres for Disease Control (zoonoses and human parasites)](http://www.cdc.gov/parasites/ Nematode taxonomy: http://cal.vet.upenn.edu/projects/merial/Nematodes/Table1.htm)
 
+[American Heartworm Society](https://www.heartwormsociety.org/)
 
-# Suggested textbooks {-}
+[American Consortium for Small Ruminant Parasite Control](https://www.wormx.info/)
+
+[RVC/FAO Guide to Veterinary Diagnostic Parasitology](https://www.rvc.ac.uk/review/Parasitology/Index/Index.htm)
+
+[Tickborne diseases in the US- CDC](https://www.cdc.gov/ticks/tickbornediseases/index.html)

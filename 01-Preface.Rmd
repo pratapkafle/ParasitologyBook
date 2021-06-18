@@ -15,14 +15,16 @@ This course reviews common helminth parasites (nematodes, trematodes, cestodes, 
 
 **Prerequisite**
 
-Enrollment in semester 2 of the DVM program
+Enrollment in semester 3 of the DVM program
 
 
 ## Instructor Info {-}
 
 My name is Pratap Kafle. You can call me by my first name (Pratap) or Dr. Kafle, or Prof. Kafle, whatever you like!
 
-I am a veterinarian by training and I received my specialization in Parasitology during my graduate study and professional work in Canada. I got my DVM in 2011 and practiced as a mixed animal vet in Nepal for almost 2 years before moving to Canada to pursue graduate studies. I completed my PhD in 2018 from University of Calgary, where I studied the ecology of host-parasite interaction in the Canadian Arctic using fieldwork, lab experiments and ecological modeling. My postdoctoral work at the University of Calgary and University of Saskatchewan involved studying a variety of parasites of wildlife, pets and humans and researching Coronaviruses (including SARS-CoV-2) in Canadian wildlife. I co-taught veterinary parasitology course to the DVM students at the Western College of Veterinary Medicine at the University of Saskatchewan.
+I am a veterinarian by training and I received my specialization in Parasitology during my graduate study and professional work in Canada. I completed my DVM in 2011 and practiced as a mixed animal veterinarian for almost 2 years in Nepal before moving to Canada to pursue graduate studies. I completed my PhD in 2018 from University of Calgary, specializing in parasitology, disease ecology and modelling. For my PhD research I studied the ecology of host-parasite interaction using the unique system of arctic ungulate (host) and their protostrongylid nematodes (parasites) in the Canadian Arctic. My postdoctoral work at the University of Calgary and University of Saskatchewan involved studying a variety of parasites of wildlife, pets and humans and researching Coronaviruses (including SARS-CoV-2) in Canadian wildlife. I was also a co-instructor of the veterinary parasitology course in the Western College of Veterinary Medicine at the University of Saskatchewan.
+
+If you are interested to know more about my research, here is the list of my [publications](https://www.researchgate.net/profile/Pratap_Kafle/publications.)
 
 I am pretty excited to be here and I look forward to working together with you all to make this course a great learning experience.
 
@@ -31,7 +33,9 @@ I am pretty excited to be here and I look forward to working together with you a
 
 **Where to find me?**
 
-You can email me anytime at kaflepratap@gmail.com during the office hours. I will try my best to respond during the weekend/holidays but I can't gurantee as I have a pretty young family and I try to work less during the weekends.
+You can email me anytime at Pratap.Kafle@liu.edu or call me at my office phone +1 516 200 2805. I will try my best to respond to your queries during the office hours. Although I will try to respond your emails during weekend/holidays, I can't guarantee as I have a pretty young family and I like to spend my weekends and holidays with my family.
+
+My office is located in the 2nd floor of Roth Hall, Room 209. Although I recommending sending me an email beforehand, please feel free to stop by my office anytime if you have any questions. Parasitology research lab is located in the Life sciences building (Room: LS14) and I hope to make it functional in a year or so.
 
 My office is located
 
@@ -41,7 +45,7 @@ library(webshot)
 
 leaflet() %>%
     addTiles() %>%
-    setView(lng = -73.597, lat = 40.820, zoom = 22)
+    setView(lng = -73.59535, lat = 40.82067, zoom = 50)
 ```
 
 
